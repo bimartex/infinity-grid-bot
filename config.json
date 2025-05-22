@@ -1,0 +1,9 @@
+{
+  "api_key": "your-api-key",
+  "api_secret": "your-secret",
+  "passphrase": "your-passphrase",
+  "symbol": "BTCUSDT",
+  "investment": 10,
+  "grid_size": 5,
+  "price_range_percent": 2
+}
